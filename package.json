@@ -1,0 +1,19 @@
+{
+
+  "name": "cubbelibey",
+  "version": "0.0.1",
+  "description": "cubbelibey",
+  "main": "cubbelibey.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-logs": "^1.8.2",
+    "discord.js": "^12.3.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Savage",
+  "license": "MIT"
+}

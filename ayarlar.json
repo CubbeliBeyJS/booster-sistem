@@ -1,0 +1,10 @@
+{
+    "Token": "Tokeniniz",
+    "Prefix": "!",
+
+    "botdurum":"",
+    "botses":"",
+    
+    "Özel_Sunucu": true,
+    "Debug": false
+}
